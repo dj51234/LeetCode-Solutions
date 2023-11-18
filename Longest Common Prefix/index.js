@@ -20,3 +20,5 @@ const longestCommonPrefix = function(strs, i = 0, output = '') {
     //* Call longestCommonPrefix, providing the new output and increasing the index check by 1
     return longestCommonPrefix(strs, i + 1, output)
 };
+
+console.log(longestCommonPrefix(["flower","flow","flight"]))
