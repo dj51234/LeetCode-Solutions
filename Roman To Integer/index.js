@@ -1,4 +1,4 @@
-const romanToInt = function(strs, i = 0, output = '') {
+const romanToInt = function(s) {
     const numerals = {
         1: 'I',
         5: 'V',
