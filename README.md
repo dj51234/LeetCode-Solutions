@@ -27,3 +27,11 @@ This is a personal repo for me to store previous LeetCode solutions to look back
 ---
 [Valid Parenthesis](https://github.com/dj51234/LeetCode-Solutions/tree/main/Array%20Addition)
 ---
+
+## TODO
+
+### ReadMe for main LeetCode Solutions
+- [ ] Array Addition
+- [ ] Counting Minutes I
+- [ ] Letter Count I
+- [ ] Second GreatLow
